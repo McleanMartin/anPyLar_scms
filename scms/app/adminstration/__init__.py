@@ -1,0 +1,1 @@
+from .adminstration_component import adminstrationComponent

@@ -1,10 +1,7 @@
 from anpylar import Component, html
 
 
-class authComponent(Component):
-
-    htmlsheet = '''
-    '''
+class financeComponent(Component):
 
     bindings = {
     }

@@ -1,0 +1,1 @@
+from .blog_component import blogComponent
