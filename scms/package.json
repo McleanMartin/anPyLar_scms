@@ -1,0 +1,11 @@
+{
+    "packages": [
+        "app"
+    ],
+    "app_name": "scms",
+    "version": "1.0",
+    "author": "Martin Chikadaya",
+    "author_email": "chikadayamartin@gmail.com",
+    "license": "CC BY 4.0",
+    "url": "scms.co.zw"
+}
