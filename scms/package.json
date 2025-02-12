@@ -1,6 +1,7 @@
 {
     "packages": [
-        "app"
+        "app",
+        "auth"
     ],
     "app_name": "scms",
     "version": "1.0",
