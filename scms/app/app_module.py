@@ -1,12 +1,12 @@
 from anpylar import Module
 
 from .app_component import AppComponent
-from .users.UsersModule  import Users_Auth
+from .users.LoginModule  import LoginComponent
 
 
 class AppModule(Module):
 
-    modules = Users_Auth
+    modules = LoginComponent
 
     components = AppComponent
 
