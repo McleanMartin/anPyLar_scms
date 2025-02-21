@@ -1,11 +1,10 @@
 from anpylar import Module
-from .app_component import AppComponent
 
 
-class AppModule(Module):
+class authenticationModule(Module):
 
-    components = AppComponent
-        
+    components = authenticationComponent
+
     bindings = {}
 
     services = {}

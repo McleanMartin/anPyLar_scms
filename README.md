@@ -2,8 +2,10 @@
  Schools Management System
 
 # requirements
-pip install anpylar
+anpylar
 python 3.10
 pycaret
 flashtext
 ydata profiling
+requests
+json

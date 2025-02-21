@@ -1,11 +1,12 @@
 from anpylar import Component, html
 
 
-class AppComponent(Component):
-    title = 'High School'
+class authComponent(Component):
+
+    htmlsheet = '''
+    '''
 
     bindings = {
-        'student':{}
     }
 
     def render(self, node):

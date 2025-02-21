@@ -1,7 +1,7 @@
 from anpylar import Component, html
 
 
-class usersComponent(Component):
+class dashboardComponent(Component):
 
     bindings = {
     }

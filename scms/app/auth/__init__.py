@@ -1,0 +1,1 @@
+from .auth_component import authComponent
